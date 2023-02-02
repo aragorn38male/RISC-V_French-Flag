@@ -4,7 +4,7 @@
 
 https://github.com/mortbopet/Ripes
 
-Just create a Led Matrix of any size you want; Ratio 2/3 is recommanded!
+Just create a Led Matrix of any size you want; Ratio 2/3 is recommended!
 
 Change: li s8, 0x0000FF To li s8, 0x00FF00 in col1 function in order to draw the Italy flag :)
 
