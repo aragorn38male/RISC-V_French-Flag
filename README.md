@@ -4,10 +4,8 @@
 
 https://github.com/mortbopet/Ripes
 
-Height: 60
-Width: 90
-Led Size: 16
+Just create a Led Matrix of any size you want; Ratio 2/3 is recommanded!
 
-Just Change: li t6, 0x0000FF To li t6, 0x00FF00 in col1 function in order to draw the Italy flag :)
+Change: li s8, 0x0000FF To li s8, 0x00FF00 in col1 function in order to draw the Italy flag :)
 
 */
